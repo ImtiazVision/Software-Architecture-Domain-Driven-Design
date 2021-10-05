@@ -9,3 +9,5 @@
 2. **Modeling** : Domain-Driven Design is built on the notion of modeling that is the structure of the code models one-to-one to the domain structure. By glancing at the overall code, all collaborators can understand the structure of the code, and when changes are made inside the domain, we will know exactly where to look at the code due to the one-to-one mapping between code and domain.  
 
 3. **Incremental** : Create only enough architecture to solve the immediate challenge. The code then evolves as we learn more about the problem, and more architecture is added later. 
+
+**Domain** influences the **System** 
