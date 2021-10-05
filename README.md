@@ -1,6 +1,6 @@
 # Software-Architecture-Domain-Driven-Design
 
-**Domain-Driven Design** existed prior to agile and microservices. However, the overall design is excellent and remains relevant today. 
+**Domain-Driven Design** is intended to expand gradually over time. It existed prior to agile and microservices. However, the overall design is excellent and remains relevant today. 
 
 **Domain-Driven Design** has the following characteristics :
 
