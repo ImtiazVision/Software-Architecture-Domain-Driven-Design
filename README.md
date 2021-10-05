@@ -32,4 +32,4 @@ We will continously improve our code based on the feedback we get from the relea
 
 ### Microservices
 
-**Microservices are the most common way **DDD** is implemented. 
+**Microservices** are the most common way **DDD** is implemented. 
