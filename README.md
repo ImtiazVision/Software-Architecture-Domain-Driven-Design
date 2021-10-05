@@ -12,4 +12,5 @@
 
 **Domain** influences the **System** and **System** influences the **Domain**. 
 
-**Domain-Driven Design (DDD)** complements agile in a collaborative setting.
+**Domain-Driven Design (DDD)** complements agile in a collaborative setting where business folks will contribute more to the design of our code than technical people will. Because when we evaluate the domain, we are also examining the code. The structure of the domain is the structure of the code. So the businessperson's understanding of how the domain works tells us exactly how the code must function.
+
