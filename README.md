@@ -29,3 +29,7 @@ We will continously improve our code based on the feedback we get from the relea
 - A handful of words
 - Describes an end user doing a domain-driven, result-oriented job 
 - Describes our user's work
+
+### Microservices
+
+**Microservices are the most common way **DDD** is implemented. 
