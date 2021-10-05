@@ -35,3 +35,13 @@ We will continously improve our code based on the feedback we get from the relea
 **Microservices** are the most common way **DDD** is implemented.
 
 Microservices tackle a specific problem, which is the monolith, or large application that contains everything. Within the monolith, there are several internal linkages and dependencies that make it nearly hard to work on. The concept behind the microservice is to take that monolith and make it tractable in order to alleviate some of the difficulties that come with it. It divides the monolith into a collection of small services that communicate with one another via the network.
+
+#### Advantages of Microservices 
+
+- Small
+- Independently deployable
+- Hide implementation details
+- Designed with business principles in mind
+- Decentralized
+- Highly observable
+- Autonomous (highly isolated)
