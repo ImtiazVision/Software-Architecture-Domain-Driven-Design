@@ -19,3 +19,6 @@
 1. Make a small change.
 2. Assess (feedback).
 3. Inspect and adapt. 
+4. Improve the existing code. 
+
+We will continously improve our code based on the feedback we get from the released code. 
