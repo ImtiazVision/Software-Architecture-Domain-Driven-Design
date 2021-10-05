@@ -14,3 +14,4 @@
 
 **Domain-Driven Design (DDD)** complements agile in a collaborative setting where business folks will contribute more to the design of our code than technical people will. Because when we evaluate the domain, we are also examining the code. The structure of the domain is the structure of the code. So the businessperson's understanding of how the domain works tell us exactly how the code must function.
 
+**Agile** is based on the work loop called the **inspect and adapt loop**.
