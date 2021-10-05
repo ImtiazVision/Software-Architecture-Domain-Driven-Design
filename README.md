@@ -11,3 +11,5 @@
 3. **Incremental** : Create only enough architecture to solve the immediate challenge. The code then evolves as we learn more about the problem, and more architecture is added later. 
 
 **Domain** influences the **System** and **System** influences the **Domain**. 
+
+**Domain-Driven Design (DDD)** complements agile in a collaborative setting.
