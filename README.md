@@ -22,3 +22,10 @@
 4. Improve the existing code. 
 
 We will continously improve our code based on the feedback we get from the released code. 
+
+### Stories in Agile
+
+- A short narrative
+- A handful of words
+- Describes an end user doing a domain-driven, result-oriented job 
+- Describes our user's work
